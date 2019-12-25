@@ -1,3 +1,6 @@
 [submodule "npm-xiaojssdk"]
 	path = npm-xiaojssdk
 	url = https://github.com/wuyihao1992/npm-xiaojssdk.git
+[submodule "npm-nagatab"]
+	path = npm-nagatab
+	url = https://github.com/wuyihao1992/npm-nagatab.git
