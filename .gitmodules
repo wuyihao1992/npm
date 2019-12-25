@@ -1,0 +1,3 @@
+[submodule "npm-xiaojssdk"]
+	path = npm-xiaojssdk
+	url = https://github.com/wuyihao1992/npm-xiaojssdk.git
